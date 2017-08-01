@@ -1,6 +1,7 @@
 # Test
 测试
 echo“＃Test”>> README.md 
+git hgahahaa
 git init 
 git add README.md 
 git commit -m“first commit” 
